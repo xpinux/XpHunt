@@ -24,7 +24,7 @@ Clone this repository to your local machine:
 # Usage
 To use the script, follow these steps:
 1. Run the Script
-`./exploit_search_download.sh`
+`./XpHunt.sh`
 2. Follow the prompts to enter the name and version of the service you want to search for exploits, and to download exploits of your choice.
 3. After downloading an exploit, you will be prompted to search for exploits in Metasploit. If you choose to do so, Metasploit will be launched and a search for exploits for the given service will be performed.
 
