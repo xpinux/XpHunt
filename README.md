@@ -38,8 +38,15 @@ Before submitting a pull request, make sure your changes meet the following crit
 * Your changes do not break existing functionality.
 * Your changes are accompanied by tests where appropriate.
 
+# Troubleshooting
+If you encounter any issues while using VulnFinder, check the following:
+
+* You have installed the prerequisites correctly.
+* You are running the script with the correct arguments.
+* You have permission to write to the download
+
 # Credits
 This script was created by Xpinux based on the Bash scripting knowledge and examples from the following sources:
 
-searchsploit documentation
-Metasploit Framework documentation
+1. searchsploit documentation
+2. Metasploit Framework documentation
