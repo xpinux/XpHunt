@@ -13,9 +13,8 @@ To use the Exploit Search and Download Script, you will need to have the followi
 To install the script, follow these steps:
 Clone this repository to your local machine:
 1. `git clone https://github.com/xpinux/XpHunt.git`
-
 2. Change to the directory where the repository was cloned:
-`cd exploit-search-download`
+`cd XpHunt`
 3. Make the script executable:
 `chmod +x XpHunt.sh`
 
@@ -24,7 +23,7 @@ To use the script, follow these steps:
 1. Run the Script
 `./exploit_search_download.sh`
 2. Follow the prompts to enter the name and version of the service you want to search for exploits, and to download exploits of your choice.
-3 .After downloading an exploit, you will be prompted to search for exploits in Metasploit. If you choose to do so, Metasploit will be launched and a search for exploits for the given service will be performed.
+3. After downloading an exploit, you will be prompted to search for exploits in Metasploit. If you choose to do so, Metasploit will be launched and a search for exploits for the given service will be performed.
 
 # Contributing
 If you want to contribute to the Exploit Search and Download Script, follow these steps:
