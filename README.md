@@ -12,12 +12,12 @@ To use the Exploit Search and Download Script, you will need to have the followi
 
 To install the script, follow these steps:
 Clone this repository to your local machine:
-1. `git clone https://github.com/xpinux/exploit-search-download.git`
+1. `git clone https://github.com/xpinux/XpHunt.git`
 
 2. Change to the directory where the repository was cloned:
 `cd exploit-search-download`
 3. Make the script executable:
-`chmod +x exploit_search_download.sh`
+`chmod +x XpHunt.sh`
 
 # Usage
 To use the script, follow these steps:
