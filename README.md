@@ -7,42 +7,37 @@ The Exploit Search and Download Script is a useful tool for security researchers
 # Installation
 To use the Exploit Search and Download Script, you will need to have the following prerequisites installed:
 
--searchsploit tool
--Metasploit Framework (if you want to search for exploits in Metasploit)
+* searchsploit tool
+* Metasploit Framework (if you want to search for exploits in Metasploit)
+
 To install the script, follow these steps:
 Clone this repository to your local machine:
-1.`git clone https://github.com/xpinux/exploit-search-download.git`
+1. `git clone https://github.com/xpinux/exploit-search-download.git`
 
-2.Change to the directory where the repository was cloned:
-
+2. Change to the directory where the repository was cloned:
 `cd exploit-search-download`
-
-3.Make the script executable:
-
+3. Make the script executable:
 `chmod +x exploit_search_download.sh`
 
 # Usage
 To use the script, follow these steps:
-1.Run the Script
+1. Run the Script
 `./exploit_search_download.sh`
-2.Follow the prompts to enter the name and version of the service you want to search for exploits, and to download exploits of your choice.
-
-3.After downloading an exploit, you will be prompted to search for exploits in Metasploit. If you choose to do so, Metasploit will be launched and a search for exploits for the given service will be performed.
+2. Follow the prompts to enter the name and version of the service you want to search for exploits, and to download exploits of your choice.
+3 .After downloading an exploit, you will be prompted to search for exploits in Metasploit. If you choose to do so, Metasploit will be launched and a search for exploits for the given service will be performed.
 
 # Contributing
 If you want to contribute to the Exploit Search and Download Script, follow these steps:
 
 1.Fork this repository.
-
 2.Make your changes.
-
 3.Submit a pull request.
 
 Before submitting a pull request, make sure your changes meet the following criteria:
 
--Your code is well-documented and easy to read.
--Your changes do not break existing functionality.
--Your changes are accompanied by tests where appropriate.
+* Your code is well-documented and easy to read.
+* Your changes do not break existing functionality.
+* Your changes are accompanied by tests where appropriate.
 
 # Credits
 This script was created by [Your Name] based on the Bash scripting knowledge and examples from the following sources:
