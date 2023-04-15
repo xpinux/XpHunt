@@ -29,9 +29,9 @@ To use the script, follow these steps:
 # Contributing
 If you want to contribute to the Exploit Search and Download Script, follow these steps:
 
-1.Fork this repository.
-2.Make your changes.
-3.Submit a pull request.
+1. Fork this repository.
+2. Make your changes.
+3. Submit a pull request.
 
 Before submitting a pull request, make sure your changes meet the following criteria:
 
