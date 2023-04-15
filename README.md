@@ -40,7 +40,7 @@ Before submitting a pull request, make sure your changes meet the following crit
 * Your changes are accompanied by tests where appropriate.
 
 # Credits
-This script was created by [Your Name] based on the Bash scripting knowledge and examples from the following sources:
+This script was created by Xpinux based on the Bash scripting knowledge and examples from the following sources:
 
 searchsploit documentation
 Metasploit Framework documentation
